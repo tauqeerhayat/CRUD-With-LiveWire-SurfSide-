@@ -1,0 +1,50 @@
+body {
+    background-color: tomato !important;
+}
+.container {
+    margin-top: 10px;
+    padding: 10px;
+}
+.card {
+    background-color: #212529 !important;
+    color: white;
+    box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+}
+.form-group label {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.alert-success {
+    font-size: 15px;
+}
+
+.alert {
+    padding: 5px !important;
+}
+.btn {
+    box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+}
+.modal-content {
+    /* background-color: #212529 !important; */
+    /* color: white; */
+    box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 5px 10px 0px rgba(0, 0, 0, 0.75);
+}
+.modal-content input {
+    /* background-color: #2c3034; */
+}
+.modal button {
+    /* background-color: tomato; */
+    /* outline: none; */
+}
+.btn:focus {
+    /* box-shadow: none; */
+}
+.footer {
+    text-align: center;
+}
